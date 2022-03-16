@@ -1,2 +1,2 @@
 # Human-Detection
-Human Detection Project
+Human Detection Using HOG features
